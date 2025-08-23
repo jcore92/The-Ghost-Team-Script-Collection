@@ -114,7 +114,7 @@ newgrp clamav
 
 createiconsclamav () {
 
-    libraryname="logo.png"
+    libraryname="clamav.png"
 
     remotelibrarylink="https://raw.githubusercontent.com/micahsnyder/clamav-documentation/main/src/images/logo.png"
 
