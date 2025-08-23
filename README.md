@@ -4,7 +4,7 @@ These files will NOT work on their own!
 
 You must install ghostAPT first to be able to utilize these files: https://github.com/jcore92/ghostAPT
 
-Download the source code.zip and export the files into the ghostAPT installation directory (/home/YOU/ghostAPT).
+Download the .zip and export the files into the ghostAPT installation directory (/home/YOU/ghostAPT).
 
 Enjoy!
 
