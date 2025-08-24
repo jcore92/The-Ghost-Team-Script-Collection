@@ -160,7 +160,7 @@ Version=1.0
 Name=Docker Manager
 GenericName=Docker Manager
 
-Exec=bash $HOME/ghostAPT/\"The Ghost Team - Server Tools\"/\"Docker Manager.ghost\"
+Exec=bash $HOME/ghostAPT/\"Server Tools\"/\"Docker Manager.ghost\"
 StartupNotify=true
 Terminal=true
 Icon=text-dockerfile

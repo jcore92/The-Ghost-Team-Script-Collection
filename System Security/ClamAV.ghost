@@ -126,7 +126,7 @@ Version=1.0
 Name=ClamAV
 GenericName=ClamAV
 
-Exec=bash $HOME/ghostAPT/\"The Ghost Team - System Security\"/ClamAV.ghost
+Exec=bash $HOME/ghostAPT/\"System Security\"/ClamAV.ghost
 StartupNotify=true
 Terminal=true
 Icon=/usr/share/icons/ghostAPT/$libraryname
