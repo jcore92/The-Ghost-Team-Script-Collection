@@ -5,7 +5,7 @@ code-goes-below
 
 scriptname="The Ghost Team Script Collection - Repository"
 author="The Ghost Team"
-version="1.1"
+version="1.2"
 
 download_update() {
     # Define an array of files and their corresponding directories
@@ -121,6 +121,7 @@ download_files() {
         ["https://github.com/jcore92/The-Ghost-Team-Script-Collection/raw/refs/heads/main/System%20Installers/System%20Admin%20Applications.ghost"]="$localinstalldirectory/System Installers"
         ["https://github.com/jcore92/The-Ghost-Team-Script-Collection/raw/refs/heads/main/Server%20Tools/Docker%20Manager.ghost"]="$localinstalldirectory/Server Tools"
         ["https://github.com/jcore92/The-Ghost-Team-Script-Collection/raw/refs/heads/main/System%20Security/ClamAV.ghost"]="$localinstalldirectory/System Security"
+        ["https://github.com/jcore92/JCore92-Script-Collection/raw/refs/heads/main/Get%20Ghost%20Scripts/JCore92%20Script%20Collection%20-%20Repository.ghost"]="$localinstalldirectory/Get Ghost Scripts"
     )
 
     # Loop through the array and download each file
